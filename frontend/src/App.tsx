@@ -84,7 +84,7 @@ export default function App () {
           <input 
             type="submit" 
             value="Cadastrar"
-            className="cursor-pointer w-full p-2 bg-green-500 rounded font-medium"
+            className="cursor-pointer w-full p-2 bg-green-600 rounded font-medium"
           />
         </form>
 
